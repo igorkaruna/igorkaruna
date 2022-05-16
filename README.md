@@ -6,7 +6,6 @@ Software Engineer
 
 *   🌍  I'm based in Ukraine
 *   ✉️  You can contact me at [ihor.karuna@gmail.com](mailto:ihor.karuna@gmail.com)
-*   🧠  I'm learning Python / Flask & Django
 
 Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
