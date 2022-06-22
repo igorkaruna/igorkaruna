@@ -1,1 +1,1 @@
-![vecteezy_programmer-people-concept-use-laptop-and-programming-code_](https://user-images.githubusercontent.com/88438873/175095758-1174a3d3-5735-495f-92bf-46883772c5d1.jpg)
+<img width="200" src="https://user-images.githubusercontent.com/88438873/175096292-a9e6fb54-ac40-4d5a-a139-b61eb3a6871f.svg">
