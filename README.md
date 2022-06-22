@@ -16,5 +16,5 @@
 <a href="https://linkedin.com/in/igorkaruna" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88438873/175100632-e5a37e98-9afb-4cc2-a29f-9d70ec271880.svg" alt="igorkaruna" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/igorkaruna"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="igorkaruna" /></a></p><br><br>
