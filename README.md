@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A backend developer from Ukraine 🇺🇦</h3>
-<hr>
+<br>
 - ⚡ Currently working on **Youtube Downloader**
 
 - 👨‍💻 All of my projects are available at [https://github.com/igorkaruna/](https://github.com/igorkaruna/)
