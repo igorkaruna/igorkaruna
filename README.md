@@ -1,5 +1,4 @@
-<h1 align="center">Igor Karuna</h1>
-<h3 align="center">A backend developer from Ukraine 🇺🇦</h3>
+<h3 align="center">Backend developer from Ukraine 🇺🇦</h3>
 <br>
 
 - ⚡ Currently working on **Youtube Downloader**
