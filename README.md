@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/igorkaruna/](https://github.com/igorkaruna/)
 
-- ✉ How to reach me **deal.karuna@gmail.com**
+- ✉ Enquiries **deal.karuna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
