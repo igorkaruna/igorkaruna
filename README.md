@@ -17,4 +17,4 @@
 </p>
 <br>
 <h3 align="center">SUPPORT</h3>
-<p><a href="https://www.buymeacoffee.com/igorkaruna"> <img align="center" src="https://user-images.githubusercontent.com/88438873/175101523-9849e21f-7094-484f-bb6a-ef4364ff1caa.svg" alt="igorkaruna" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/igorkaruna"> <img align="center" width="200" src="https://user-images.githubusercontent.com/88438873/175101523-9849e21f-7094-484f-bb6a-ef4364ff1caa.svg" alt="igorkaruna" /></a></p><br><br>
